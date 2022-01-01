@@ -13,7 +13,7 @@ function App() {
           <p style={{fontWeight: 'bolder', color: "#989C9A"}}>¿Que esperas? ¡Scanealo! <span style={{color: 'black'}}>📷 👉👈</span></p>
         </div>
         <div>
-          <QRCode value="http://192.168.0.18:3000/surprise/maybel" />
+          <QRCode value="https://surprise-ten.vercel.app/surprise/maybel" />
         </div>
       </div>
     </div>
